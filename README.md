@@ -21,7 +21,7 @@ Follow the instructions below to run the application on your local machine:
 
 1. Clone the repository:
 
-   git clone https://github.com/ycvansh03/user-card-grid-app.git
+   git clone https://github.com/cvansh03/user-card-grid-app.git
 
 2. Navigate to the project directory:
 
